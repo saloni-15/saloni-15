@@ -4,3 +4,8 @@
 - 🌱 I’m currently learning Data Structures and Algorithm with C++.
 - :dart: I'm looking forward to learning Python.
 
+<a href="https://github.com/saloni-15/saloni-15">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=saloni-15&show_icons=true&theme=radical&repo=saloni-15" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloni-15&show_icons=true&theme=radical&repo=saloni-15" />
+</a>
+
