@@ -38,6 +38,3 @@
 </a>
 
 <br>
-<p>
-<img src="https://komarev.com/ghpvc/?username=saloni15&label=Profile%20views&color=2a9df4&style=plastic" alt="saloni15" align="center"/>
-</p>
