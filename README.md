@@ -3,7 +3,7 @@
 
 <img src="https://image.freepik.com/free-vector/software-development-team-abstract-concept-illustration-remote-teamwork-digital-team-demand-professional-certified-software-developer-hire-outsource-company_335657-932.jpg" width=300 align="right">
 
- - 🔭 I’m currently working on full stack projects.</li>
+ - 🔭 I’m currently working on full stack projects(with MERN technologies).</li>
  - 🌱 I’m currently learning Data Structures and Algorithm with C++.</li>
  - :dart: I'm looking forward to learning Python.</li>
 
