@@ -2,17 +2,20 @@
 <h1 align="center"><b> Hi there :smile: </b></h1>
 <img src="https://komarev.com/ghpvc/?username=saloni15&label=Profile%20views&color=2a9df4&style=plastic" alt="saloni15" />
 
+<p align="left">
 - 🔭 I’m currently working on full stack projects.
 - 🌱 I’m currently learning Data Structures and Algorithm with C++.
 - :dart: I'm looking forward to learning Python.
-
-
+</p>
+<p align="right">
+<img src="https://www.freepik.com/free-vector/software-development-team-abstract-concept-illustration-remote-teamwork-digital-team-demand-professional-certified-software-developer-hire-outsource-company_10782890.htm#page=1&query=software%20engineer&position=28" width=100>
+</p>
+<br>
 <p align="left">
-<h3><b>:rocket: Programming Languages   </b></h3>
+<h3><b>:rocket: Programming Languages  </b></h3>
 
 <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=30> <img src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" width=30> <img src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" width=30>
 </p>
-
 <br>
 <p align="left">
 <h3><b>🛠 Tech Stack  </b></h3>
