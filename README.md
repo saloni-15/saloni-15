@@ -6,14 +6,13 @@
 - 🌱 I’m currently learning Data Structures and Algorithm with C++.
 - :dart: I'm looking forward to learning Python.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :rocket: Programming Languages   
 <br>
-<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=30> <img src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" width=30> <img src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" width=30> 
-</p>
+<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=30> <img src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" width=30> <img src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" width=30>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 ### 🛠 &nbsp;Tech Stack
 - 🌐 &nbsp;
@@ -28,11 +27,10 @@
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <a href="https://github.com/saloni-15/saloni-15">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=saloni-15&show_icons=true&theme=algolia&repo=saloni-15" />
