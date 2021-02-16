@@ -7,7 +7,7 @@
 - :dart: I'm looking forward to learning Python.
 
 ### Programming Languages
-![HTML](https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 
 ### 🛠 &nbsp;Tech Stack
 - 🌐 &nbsp;
