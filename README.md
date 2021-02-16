@@ -1,11 +1,10 @@
-<img src="https://image.freepik.com/free-vector/software-development-team-abstract-concept-illustration-remote-teamwork-digital-team-demand-professional-certified-software-developer-hire-outsource-company_335657-932.jpg" width=200 align="right">
-
 <h1 align="center"><b> Hi there :smile: </b></h1>
+
+<img src="https://image.freepik.com/free-vector/software-development-team-abstract-concept-illustration-remote-teamwork-digital-team-demand-professional-certified-software-developer-hire-outsource-company_335657-932.jpg" width=400 align="right">
 
  - 🔭 I’m currently working on full stack projects.</li>
  - 🌱 I’m currently learning Data Structures and Algorithm with C++.</li>
  - :dart: I'm looking forward to learning Python.</li>
-   
 <br>
 <p align="left">
 <h3><b>:rocket: Programming Languages  </b></h3>
@@ -39,4 +38,4 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloni-15&show_icons=true&theme=algolia&repo=saloni-15" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=saloni15&label=Profile%20views&color=2a9df4&style=plastic" alt="saloni15" />
+
