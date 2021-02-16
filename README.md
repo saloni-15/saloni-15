@@ -7,13 +7,13 @@
 - :dart: I'm looking forward to learning Python.
 
 
-
+<p align="left">
 <h2><b>:rocket: Programming Languages   </b></h2>
 <br>
 <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=30> <img src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" width=30> <img src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" width=30>
+</p>
 
-
-
+<p align="left">
 <h2><b>🛠 Tech Stack  </b></h2>
 - 🌐 &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
@@ -30,7 +30,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
+</p>
 
 
 <a href="https://github.com/saloni-15/saloni-15">
