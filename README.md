@@ -33,7 +33,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 </p>
 
-<br>
+<be>
+<h2><b>⭐Github Stats</b></h2>
 <a href="https://github.com/saloni-15/saloni-15">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=saloni-15&show_icons=true&theme=algolia&repo=saloni-15" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloni-15&show_icons=true&theme=algolia&repo=saloni-15" />
