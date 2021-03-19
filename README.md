@@ -4,9 +4,10 @@
 <br />
 <img src="https://image.freepik.com/free-vector/software-development-team-abstract-concept-illustration-remote-teamwork-digital-team-demand-professional-certified-software-developer-hire-outsource-company_335657-932.jpg" width=300 align="right">
 
- - 🔭 I’m currently working on frontend projects.</li>
- - 🌱 I’m currently learning Data Structures and Algorithm with C++.</li>
- - :dart: I'm looking forward to learning Python.</li>
+ - 🔭 I’m currently working on **Frontend Projects**.
+ - 🌱 I’m currently learning **Data Structures and Algorithm with C++.**
+ - :dart: I'm looking forward to learning **Python**.
+ - 📫 How to reach me **subedisaloni2002@gmail.com**
  
 <br />
 <p align="left">
@@ -39,8 +40,10 @@
 <br />
 <h2><b>⭐Github Stats</b></h2>
 <a href="https://github.com/saloni-15/saloni-15">
+ <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saloni-15&theme=algolia" alt="saloni-15" />
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=saloni-15&show_icons=true&theme=algolia&repo=saloni-15" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloni-15&show_icons=true&theme=algolia&repo=saloni-15" />
+  
 </a>
 
 <br>
