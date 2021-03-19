@@ -40,9 +40,9 @@
 <br />
 <h2><b>⭐Github Stats</b></h2>
 <a href="https://github.com/saloni-15/saloni-15">
- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saloni-15&theme=algolia" alt="saloni-15" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=saloni-15&show_icons=true&theme=algolia&repo=saloni-15" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloni-15&show_icons=true&theme=algolia&repo=saloni-15" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saloni-15&theme=algolia" alt="saloni-15" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saloni-15&show_icons=true&theme=algolia&repo=saloni-15" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloni-15&show_icons=true&theme=algolia&repo=saloni-15" />
   
 </a>
 
