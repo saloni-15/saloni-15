@@ -4,13 +4,15 @@
 <br />
 <img src="https://image.freepik.com/free-vector/software-development-team-abstract-concept-illustration-remote-teamwork-digital-team-demand-professional-certified-software-developer-hire-outsource-company_335657-932.jpg" width=300 align="right">
 
-<p align="left">
+
 <h2><b>🌟 About me  </b></h2>
- - 🔭 I’m currently working on **Frontend Projects**.
- - 🌱 I’m currently learning **Data Structures and Algorithm with C++.**
- - :dart: I'm looking forward to learning **Python**.
- - 📫 How to reach me **subedisaloni2002@gmail.com**
- 
+<ul>
+ <li>🔭 I’m currently working on <b>Frontend Projects</b>.</li>
+ <li>🌱 I’m currently learning <b>Data Structures and Algorithm with C++.</b></li>
+ <li>:dart: I'm looking forward to learning <b>Python</b>.</li>
+ <li>📫 How to reach me <b>subedisaloni2002@gmail.com</b></li>
+</ul>
+
 <br />
 <p align="left">
 <h2><b>:rocket: Programming Languages  </b></h2>
