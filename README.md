@@ -4,6 +4,8 @@
 <br />
 <img src="https://image.freepik.com/free-vector/software-development-team-abstract-concept-illustration-remote-teamwork-digital-team-demand-professional-certified-software-developer-hire-outsource-company_335657-932.jpg" width=300 align="right">
 
+<p align="left">
+<h2><b>🌟 About me  </b></h2>
  - 🔭 I’m currently working on **Frontend Projects**.
  - 🌱 I’m currently learning **Data Structures and Algorithm with C++.**
  - :dart: I'm looking forward to learning **Python**.
