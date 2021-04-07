@@ -7,10 +7,11 @@
 
 <h2><b>🌟 About me  </b></h2>
 <ul>
- <li>🔭 I’m currently working on <b>Frontend Projects</b>.</li>
+ <li>🎇 I'm interested in <b>Full Stack Web Development (Using MERN)</b>.</li>
  <li>🌱 I’m currently learning <b>Data Structures and Algorithm with C++.</b></li>
+ <li>🔭 I’m currently working on <b>Frontend Projects</b>.</li>
  <li>:dart: I'm looking forward to learning <b>Python</b>.</li>
- <li>📫 How to reach me <b>subedisaloni2002@gmail.com</b></li>
+ <li>📫 How to reach me : <a href="subedisaloni2002@gmail.com">subedisaloni2002@gmail.com</a></li>
 </ul>
 
 <br />
