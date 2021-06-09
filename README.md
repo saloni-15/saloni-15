@@ -8,8 +8,7 @@
 <h2><b>🌟 About me  </b></h2>
 <ul>
  <li>🎇 I'm interested in <b>Full Stack Web Development (Using MERN)</b>.</li>
- <li>🌱 I’m currently learning <b>Data Structures and Algorithm with C++.</b></li>
- <li>🔭 I’m currently working on <b>Frontend Projects</b>.</li>
+ <li>🌱 I’m currently learning <b>Problem Solving with Data Structures and Algorithms.</b></li>
 </ul>
 
 <br />
@@ -45,7 +44,8 @@
 <a align="center" href="https://github.com/saloni-15/saloni-15">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=saloni-15&show_icons=true&theme=algolia&repo=saloni-15" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloni-15&show_icons=true&theme=algolia&repo=saloni-15" />
-  
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saloni-15&theme=algolia" alt="saloni-15" /></p>
+<div style="font-weight: 800;">
 </a>
 
 <br>
