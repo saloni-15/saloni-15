@@ -27,6 +27,8 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery&logoColor=0769ad)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=cc6699)
+  ![Less](https://img.shields.io/badge/-Less-333333?style=flat&logo=less&logoColor=428bca)
   <br>
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Express](https://img.shields.io/badge/-ExpressJS-333333?style=flat&logo=express)
