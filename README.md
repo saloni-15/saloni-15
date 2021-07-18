@@ -1,6 +1,6 @@
 
 <h1 align="center"><b> Hi there :smile: </b></h1>
-<h3 align="center"><b>✨I'm Saloni. A 2nd year Computer Science Engineering Student and a passionate Web Developer✨</b></h3>
+<h3 align="center"><b>✨I'm Saloni... Computer Science Engineering Student and a passionate Web Developer✨</b></h3>
 <br />
 <img src="https://image.freepik.com/free-vector/software-development-team-abstract-concept-illustration-remote-teamwork-digital-team-demand-professional-certified-software-developer-hire-outsource-company_335657-932.jpg" width=300 align="right">
 
