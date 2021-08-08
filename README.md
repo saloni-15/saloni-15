@@ -1,6 +1,7 @@
 
 <h1 align="center"><b> Hi there :smile: </b></h1>
 <h3 align="center"><b>✨I'm Saloni... Computer Science Engineering Student and a passionate Web Developer✨</b></h3>
+
 <br />
 <img src="https://image.freepik.com/free-vector/software-development-team-abstract-concept-illustration-remote-teamwork-digital-team-demand-professional-certified-software-developer-hire-outsource-company_335657-932.jpg" width=300 align="right">
 
@@ -45,7 +46,10 @@
 </p>
 
 <br />
-<h2><b>⭐Github Stats</b></h2>
+<h2><b>⭐Github Stats</b></h2> 
+
+![](https://komarev.com/ghpvc/?username=saloni-15&color=00ACFF)
+
 <a align="center" href="https://github.com/saloni-15/saloni-15">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=saloni-15&show_icons=true&theme=algolia&repo=saloni-15" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloni-15&show_icons=true&theme=algolia&repo=saloni-15" />
