@@ -23,25 +23,25 @@
 <p align="left">
 <h2><b>🛠 Tech Stack  </b></h2>
 
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery&logoColor=0769ad)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=sass&logoColor=cc6699)
-  ![Less](https://img.shields.io/badge/-Less-333333?style=flat&logo=less&logoColor=428bca)
+  ![HTML](https://img.shields.io/badge/-HTML-040E2C?style=for-the-badge&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-040E2C?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-040E2C?style=for-the-badge&logo=javascript)
+  ![JQuery](https://img.shields.io/badge/-JQuery-040E2C?style=for-the-badge&logo=jquery&logoColor=0769ad)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-040E2C?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+  ![Sass](https://img.shields.io/badge/-Sass-040E2C?style=for-the-badge&logo=sass&logoColor=cc6699)
+  ![Less](https://img.shields.io/badge/-Less-040E2C?style=for-the-badge&logo=less&logoColor=428bca)
   <br>
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Express](https://img.shields.io/badge/-ExpressJS-333333?style=flat&logo=express)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-040E2C?style=for-the-badge&logo=mongodb)
+  ![Express](https://img.shields.io/badge/-ExpressJS-040E2C?style=for-the-badge&logo=express)
+  ![React](https://img.shields.io/badge/-React-040E2C?style=for-the-badge&logo=react)
+  ![Node.js](https://img.shields.io/badge/-Node.js-040E2C?style=for-the-badge&logo=node.js)
   <br>
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=heroku&logoColor=6567a5)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash&logoColor=white)
-  ![NPM](https://img.shields.io/badge/-Npm-333333?style=flat&logo=npm&logoColor=white)
+  ![Git](https://img.shields.io/badge/-Git-040E2C?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-040E2C?style=for-the-badge&logo=github)
+  ![Heroku](https://img.shields.io/badge/-Heroku-040E2C?style=for-the-badge&logo=heroku&logoColor=6567a5)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-040E2C?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+  ![Bash](https://img.shields.io/badge/-Bash-040E2C?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![NPM](https://img.shields.io/badge/-Npm-040E2C?style=for-the-badge&logo=npm&logoColor=white)
 
 </p>
 
