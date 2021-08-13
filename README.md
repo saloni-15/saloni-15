@@ -1,28 +1,28 @@
 
-<h1 align="center"><b> Hi there :smile: </b></h1>
-<h3 align="center"><b>✨I'm Saloni... Computer Science Engineering Student and a passionate Web Developer✨</b></h3>
 
 <br />
-<img src="https://image.freepik.com/free-vector/software-development-team-abstract-concept-illustration-remote-teamwork-digital-team-demand-professional-certified-software-developer-hire-outsource-company_335657-932.jpg" width=300 align="right">
+<img align="right" src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px" style="max-width:100%;">
 
 
 <h2><b>🌟 About me  </b></h2>
-<ul>
- <li>🎇 I'm interested in <b>Full Stack Web Development (Using MERN)</b>.</li>
- <li>🌱 I’m currently learning <b>Problem Solving with Data Structures and Algorithms.</b></li>
-</ul>
+
+- ✨ I'm <b>Saloni Subedi</b> , a Computer Science Engineering Student.
+- 🎇 I'm a passionate <b>Web Developer</b>. 
+- 🌱 Currently working on enhancing my <b>Problem Solving Skills</b> in <b>Data Structures and Algorithms</b>.
+
+- 👯 I’m looking forward to collaborate on different open-source projects [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+- 📪 Reach Me : subedisaloni2002@gmail.com
+
+
 
 <br />
+
+<br /> 
 <p align="left">
-<h2><b>:rocket: Programming Languages  </b></h2>
+<h2><b>🛠 Languages and Tools I use </b></h2>
 
-<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=30> <img src="https://www.pngkit.com/png/full/101-1010012_c-programming-icon-c-programming-language-logo.png" width=30> <img src="https://camo.githubusercontent.com/9496882abd182958bcea4238ab44f7eb8928d7a4144c150f18f6c55ceb9b4490/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667" width=30>
-</p>
-
-<br />
-<p align="left">
-<h2><b>🛠 Tech Stack  </b></h2>
-
+  ![C](https://img.shields.io/badge/-C-040E2C?style=for-the-badge&logo=C)
+  ![C++](https://img.shields.io/badge/C++-040E2C?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
   ![HTML](https://img.shields.io/badge/-HTML-040E2C?style=for-the-badge&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-040E2C?style=for-the-badge&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-040E2C?style=for-the-badge&logo=javascript)
