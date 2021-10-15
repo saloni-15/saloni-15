@@ -13,9 +13,6 @@
 📪 Reach Me : subedisaloni2002@gmail.com
 
 
-
-
-
 <br />
 
 <br /> 
@@ -48,8 +45,8 @@
 
 <br />
 
-### Do check it out this project if you want to contribute to some beginner-friendly HTML/CSS/JS repository.
-
+<!-- ### Do check it out this project if you want to contribute to some beginner-friendly HTML/CSS/JS repository.
+ -->
 <h2><b>⭐Github Stats</b></h2> 
 
 ![](https://komarev.com/ghpvc/?username=saloni-15&color=51C4D3)
