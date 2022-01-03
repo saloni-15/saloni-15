@@ -11,11 +11,8 @@
 🌱 Currently working on enhancing my <b>Problem Solving Skills</b> in <b>Data Structures and Algorithms</b>.<br/>
 👯 I’m looking forward to collaborate on different open-source projects [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)<br/>
 📪 Reach Me : subedisaloni2002@gmail.com
-
-
 <br />
-
-<br /> 
+ 
 <p align="left">
 <h2><b>🛠 Languages and Tools I use </b></h2>
 
@@ -40,13 +37,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-132C33?style=plastic&logo=visual-studio-code&logoColor=007ACC)
   ![Bash](https://img.shields.io/badge/-Bash-132C33?style=plastic&logo=gnu-bash&logoColor=white)
   ![NPM](https://img.shields.io/badge/-Npm-132C33?style=plastic&logo=npm&logoColor=white)
-
 </p>
-
-<br />
-
-<!-- ### Do check it out this project if you want to contribute to some beginner-friendly HTML/CSS/JS repository.
- -->
 <h2><b>⭐Github Stats</b></h2> 
 
 ![](https://komarev.com/ghpvc/?username=saloni-15&color=51C4D3)
@@ -57,8 +48,6 @@
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saloni-15&background=132C33&stroke=51C4D3&fire=D8E3E7&sideLabels=51C4D3&currStreakLabel=51C4D3&sideNums=D8E3E7&currStreakNum=51C4D3&ring=D8E3E7&dates=D8E3E7&hide_border=true" alt="saloni-15" /></p>
 <div style="font-weight: 800;">
 </a>
-
-
 <br>
 
 <br />
