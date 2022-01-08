@@ -1,6 +1,5 @@
+![Saloni Subedi github](https://user-images.githubusercontent.com/75828760/148636394-d8e56ca5-72e9-4ac5-9fda-7fe7614534a0.png)
 
-
-<br />
 <img align="right" src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px" style="max-width:100%;">
 
 
